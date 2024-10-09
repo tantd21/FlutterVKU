@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793116695397",
+    "project_id": "thigiuaky-cafd8",
+    "storage_bucket": "thigiuaky-cafd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793116695397:android:3fbd88e0313bd9d467df8c",
+        "android_client_info": {
+          "package_name": "com.example.thigiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWuzNQVEXOwT3tMgdVhwH5iono7-y1ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
